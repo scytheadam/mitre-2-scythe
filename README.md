@@ -6,7 +6,7 @@ Set Up
 
 Install required Python packages.
 
-    (venv) $ ``pip install -r requirements.txt``
+    (venv) $ pip install -r requirements.txt
 
 
 Example Usage
